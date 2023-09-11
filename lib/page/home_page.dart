@@ -25,7 +25,10 @@ class HomePage extends StatelessWidget {
           ),
         ),
         body: const TabBarView(
-          children: [HomeMainLayout(), HomeTodaylayout()],
+          children: [
+            HomeMainLayout(),
+            HomeTodaylayout(),
+          ],
         ),
       ),
     );

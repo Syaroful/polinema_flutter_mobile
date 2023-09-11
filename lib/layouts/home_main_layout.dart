@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+import '../components/news_card.dart';
 
 class HomeMainLayout extends StatelessWidget {
   const HomeMainLayout({super.key});
@@ -15,7 +18,36 @@ class HomeMainLayout extends StatelessWidget {
             height: 200,
             width: double.infinity,
           ),
-          const SizedBox()
+          const SizedBox(height: 8),
+          Text(
+            'Messi Magic: Argentina Wins Copa America in Nail-Biting Final',
+            style: GoogleFonts.poppins(
+              fontSize: 16,
+            ),
+          ),
+          const SizedBox(height: 8),
+          Container(
+            width: double.infinity,
+            padding: const EdgeInsets.all(8),
+            decoration: const BoxDecoration(color: Colors.red),
+            child: const Text(
+              'Sports',
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 12,
+              ),
+            ),
+          ),
+          const SizedBox(height: 8),
+          Column(
+            children: List.generate(
+                5,
+                (index) => const NewsCard(
+                      title:
+                          'Messi Magic: Argentina Wins Copa America in Nail-Biting Final',
+                    )),
+          )
         ],
       ),
     );
