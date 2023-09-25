@@ -28,10 +28,15 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Flutter Demo'),
       ),
-      body: const Center(
-        child: Text(
-          'Hello, World!',
-          style: TextStyle(fontSize: 24.0),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            ElevatedButton(
+              onPressed: () {},
+              child: const Text('Next'),
+            )
+          ],
         ),
       ),
     );
