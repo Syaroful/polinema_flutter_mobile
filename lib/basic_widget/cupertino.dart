@@ -11,10 +11,11 @@ class CupertinoButtonApp extends StatelessWidget {
       color: Colors.white,
       child: Column(
         children: <Widget>[
-          CupertinoButton(
+          CupertinoButton.filled(
             child: const Text("Contoh button"),
             onPressed: () {},
           ),
+          const SizedBox(height: 20),
           const CupertinoActivityIndicator(),
         ],
       ),
