@@ -2,5 +2,4 @@
 My new Flutter project ft Codelab.
 
 ## Random Word Generator
-
-![screenshot](images/praktikum-codelab.gif)
+![random word generator](images/praktikum-codelab.gif)
