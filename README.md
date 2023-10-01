@@ -6,8 +6,9 @@ membuat contoh widget GestureDetector
 
 ## Praktikum 2
 membuat contoh widget Input dan Form
-![Screenshoot praktikum 2](images/input_form_widget.gif)
+![Screenshoot praktikum 2](images/form-field-widget.gif)
+
 
 ## Praktikum 3
 membuat contoh widget Custom Input dan Form Field
-![Screenshoot praktikum 2](images/form-field-widget.gif)
+![Screenshoot praktikum 2](images/input_form_widget.gif)
