@@ -2,23 +2,12 @@
 
 ## Praktikum 1
 membuat contoh widget GestureDetector
-![Screenshot praktikum 1](images/praktikum%201.png)
+![Screenshot praktikum 1](images/gesture-detector-widget.gif)
 
-## Praktikum 4
-### Cupertino Button, Loading, and FAB
+## Praktikum 2
+membuat contoh widget Input dan Form
+![Screenshoot praktikum 2](images/input_form_widget.gif)
 
-![cupertino](images/praktikum-2-cupertino.gif)
-
-### Scaffold Widget
-
-![scaffold](images/praktikum-scaffold-widget.gif)
-### Dialog Widget
-
-![dialog](images/praktikum-dialog-widget.gif)
-### Input Widget
-
-![input](images/praktikum-input-widget.gif)
-
-### Date Time Picker
-
-![date picker](images/praktikum-datetime-picker-widget.gif)
+## Praktikum 3
+membuat contoh widget Custom Input dan Form Field
+![Screenshoot praktikum 2](images/form-field-widget.gif)
