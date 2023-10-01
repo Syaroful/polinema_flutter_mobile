@@ -1,5 +1,9 @@
 # TUGAS PRAKTIKUM
 
+### Muhamad Syaroful Anam
+### 2141720108
+### TI - 3G
+
 ## Praktikum 1
 membuat contoh widget GestureDetector
 ![Screenshot praktikum 1](images/gesture-detector-widget.gif)
