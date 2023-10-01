@@ -1,7 +1,7 @@
 # TUGAS PRAKTIKUM
 
-## Praktikum 3
-
+## Praktikum 1
+membuat contoh widget GestureDetector
 ![Screenshot praktikum 1](images/praktikum%201.png)
 
 ## Praktikum 4
