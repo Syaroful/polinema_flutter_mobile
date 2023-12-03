@@ -10,9 +10,9 @@ oleh :
 Ini adalah kode untuk membuat laporan pengerjaan praktikum pemrograman mobile.
 UTS ini berfokus pada penggunaan state management dalam `Flutter`.
 
-### Video :
+### Demo :
 
-![video](assets/video_demo.gif)
+<img src='assets/video_demo.gif' width='300'>
 
 ### Jawaban Pertanyaa :
 ---
